@@ -56,6 +56,7 @@ namespace zd4
             Console.WriteLine($"Среднее число машин в системе: {L_sys:F4}");
             Console.WriteLine($"Среднее время ожидания в очереди: {W_que:F4} часов");
             Console.WriteLine($"Среднее время ожидания в системе: {W_sys:F4} часов");
+            //changed!
         }   
     }
 }
